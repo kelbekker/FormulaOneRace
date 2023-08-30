@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: libs/jpaz2-1.1.1.jar
+Main-Class: com.foxminded.formulaonerace.App
+Created-By: Maven Integration for Eclipse
+
